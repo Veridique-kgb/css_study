@@ -1,0 +1,19 @@
+.relative{
+    background-color: blue;
+    height: 300px;
+    position: relative;
+    bottom: 0;
+    
+   
+}
+.absolute{
+    background-color: goldenrod;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+h1{
+    background-color:rgb(238, 29, 175);
+}
